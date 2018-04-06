@@ -6,7 +6,7 @@ generate 2 MB file
 `node writeFile.js`
 
 simulate stop to stream when over 50 % file size  
-`node index.js`
+`node index.js`  
 `curl -o http://localhost:8080`
 
 refer to
